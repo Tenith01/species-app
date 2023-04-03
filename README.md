@@ -15,5 +15,5 @@ The `api.ts` file contains a reusable function `fetchSpeciesData` that can be ea
 ## Install the necessary libraries:
 npm install axios @types/axios
 
-## To run the development server, execute the following command in your terminal:
+## To run the development server :
 npm run dev
