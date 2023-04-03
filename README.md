@@ -15,13 +15,5 @@ The `api.ts` file contains a reusable function `fetchSpeciesData` that can be ea
 ## Install the necessary libraries:
 npm install axios @types/axios
 
-## Import the `fetchSpeciesData` function from the `api.ts` file:
-
-```typescript
-import { fetchSpeciesData } from './api';
-
-3. Call the fetchSpeciesData function with a species name as an argument:
-const data = await fetchSpeciesData('Canis lupus');
-
-##To run the development server, execute the following command in your terminal:
+## To run the development server, execute the following command in your terminal:
 npm run dev
